@@ -7,14 +7,47 @@
 Продолжительность: 1 семестр (12 лекций).
 ## Программа курса
 
-1. **Лекция 1: Введение в машинное обучение**
-   - [Лекция 1](Лекция_1_Вводная.ipynb)
-   - [Тест 1](Lecture_1/Test_1_Link.md)
+1. **Лекция 1: Основы нейронных сетей**
+   - [Лекция 1](Лекция_1_Основы_нейронных_сетей.ipynb)
+   - [Тест 1]()
 
-2. **Лекция 2: Методология ML**
-   - [Лекция 2](Лекция_2_Методология_ML.ipynb)
-   - [Тест 2](https://docs.google.com/forms/d/e/1FAIpQLScSrCGy5h84iUULEtIPWcel9lAG6kguWVRKMSlZAQMqjhlS7Q/viewform?usp=header)
+2. **Лекция 2: PyTorch, градиентный спуск для обучения нейросети**
+   - [Лекция 2](Лекция 2. PyTorch, градиентный спуск для обучения нейросети.ipynb)
+   - [Тест 2]()
 
 3. **Лекция 3: Метрические методы**
    - [Лекция 3](Лекция_3_Метрические_методы.ipynb)
    - [Тест 3](Lecture_1/Test_1_Link.md)
+  
+4. **Лекция 1: Основы нейронных сетей**
+   - [Лекция 1](Лекция_1_Вводная.ipynb)
+   - [Тест 1](Lecture_1/Test_1_Link.md)
+
+5. **Лекция 2: Методология ML**
+   - [Лекция 2](Лекция_2_Методология_ML.ipynb)
+   - [Тест 2](https://docs.google.com/forms/d/e/1FAIpQLScSrCGy5h84iUULEtIPWcel9lAG6kguWVRKMSlZAQMqjhlS7Q/viewform?usp=header)
+
+6. **Лекция 3: Метрические методы**
+   - [Лекция 3](Лекция_3_Метрические_методы.ipynb)
+   - [Тест 3](Lecture_1/Test_1_Link.md)
+
+7. **Лекция 1: Основы нейронных сетей**
+   - [Лекция 1](Лекция_1_Вводная.ipynb)
+   - [Тест 1](Lecture_1/Test_1_Link.md)
+
+8. **Лекция 2: Методология ML**
+   - [Лекция 2](Лекция_2_Методология_ML.ipynb)
+   - [Тест 2](https://docs.google.com/forms/d/e/1FAIpQLScSrCGy5h84iUULEtIPWcel9lAG6kguWVRKMSlZAQMqjhlS7Q/viewform?usp=header)
+
+9. **Лекция 3: Метрические методы**
+   - [Лекция 3](Лекция_3_Метрические_методы.ipynb)
+   - [Тест 3](Lecture_1/Test_1_Link.md)
+  
+10. **Лекция 1: Основы нейронных сетей**
+   - [Лекция 1](Лекция_1_Вводная.ipynb)
+   - [Тест 1](Lecture_1/Test_1_Link.md)
+
+11. **Лекция 2: Методология ML**
+   - [Лекция 2](Лекция_2_Методология_ML.ipynb)
+   - [Тест 2](https://docs.google.com/forms/d/e/1FAIpQLScSrCGy5h84iUULEtIPWcel9lAG6kguWVRKMSlZAQMqjhlS7Q/viewform?usp=header)
+
